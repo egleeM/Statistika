@@ -17,3 +17,26 @@ Darbą atlikto Emilija Abromaitytė, Eglė Maslinskaitė ir Mykolas Motiejūnas.
 ### 4. Išbrėžkite a.d. tankio (tikimybių) ir pasiskirstymo funkcijos grafikus su skirtingais parametrų rinkiniais. Kaip parametrai keičia tankio funkcijų (tikimybių) formas?
 
 ### 5. Užrašykite kvantilių funkciją ir išbrėžkite jos grafiką su skirtingais parametrais. Kaip keičiasi kvantilių grafikas, keičiant parametrus?
+
+### 6. Fiksuokite vieną, pasirinktą a.d. parametrų rinkinį. Sugeneruokite iš savo skirstinio duomenų rinkinius su 20, 50, 200, 1000 imčių dydžiais:
+- Nubrėžkite histogramas (stulpelių diagramas).
+- Nubrėžkite empirines pasiskirstymo funkcijas.
+- Raskite empirinį vidurkį, dispersiją, standartinį nuokrypį, asimetrijos ir eksceso koeficientus. Palyginti šias charakteristikas su tikromis reikšmėmis.
+
+### 7. Apskaičiuokite a.d. parametro(-ų) momentų metodo įvertinį(-ius) ir raskite momentų metodo įverčius 6 dalyje sugeneruotoms imtims.
+
+### 8. Naudodamiesi R raskite didžiausio tikėtinumo metodo parametrų įverčius 6 dalyje sugeneruotoms imtims.
+
+### 9. Palyginkite 7 ir 8 dalyse gautus įverčius su tikraisiais parametrais.
+
+### 10. Raskite parametrų pasikliautinus intervalus bei apskaičiuokite juos 6 dalyje sugeneruotiems duomenims.
+
+### 11. Apskaičiuokite 6 dalyje sugeneruotiems duomenims kvartilius.
+
+### 12. Pridėkite 5 išsiskiriančius stebėjimus 6 dalyje sugeneruotiems duomenims.
+
+### 13. Išbrėžkite stačiakampes diagramas. Ar jos identifikuoja tas pačias išskirtis?
+
+### 14. Palyginkite 6 dalyje sugeneruotų duomenų histogramas (tikimybes) su normaliojo skirstinio tankiu (Puasono skirstinio tikimybėmis).
+
+### 15. Papildoma užduotis: pridedamas 1 balas, jei surasite tikrą duomenų imtį, kuri tenkina grupės nagrinėjamą skirstinį. Nurodykite duomenų šaltinį, išbrėžti grafikus palyginimui ir paaiškinti, kodėl duomenys atitinka nagrinėjamą skirstinį.
