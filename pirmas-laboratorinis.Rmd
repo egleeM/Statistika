@@ -1,0 +1,19 @@
+---
+title: "Matematinės statistikos laboratorinis darbas"
+output: pdf_document
+date: "2025-02-16"
+---
+
+# Matematinės statistikos laboratorinis darbas
+
+Darbą atlikto Emilija Abromaitytė, Eglė Maslinskaitė ir Mykolas Motiejūnas.
+
+### 1. Aprašykite nagrinėjamo a.d. skirstinį. Pateikite pavyzdžių, kur jis taikomas.
+
+### 2. Užrašykite nagrinėjamo a.d. pasiskirstymo ir tankio funkcijas (tolydžiu atveju) arba tikimybes (diskrečiu atveju).
+
+### 3. Užrašykite kam lygūs šio a.d. vidurkis, dispersija asimetrijos ir eksceso koeficientai.
+
+### 4. Išbrėžkite a.d. tankio (tikimybių) ir pasiskirstymo funkcijos grafikus su skirtingais parametrų rinkiniais. Kaip parametrai keičia tankio funkcijų (tikimybių) formas?
+
+### 5. Užrašykite kvantilių funkciją ir išbrėžkite jos grafiką su skirtingais parametrais. Kaip keičiasi kvantilių grafikas, keičiant parametrus?
